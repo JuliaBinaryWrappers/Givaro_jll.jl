@@ -1,0 +1,260 @@
+[[Givaro]]
+arch = "aarch64"
+git-tree-sha1 = "38a28fc48ce0ff84f27a62e251e04a28d6baead7"
+os = "macos"
+
+    [[Givaro.download]]
+    sha256 = "07a950e7283d029bd49e66609f33eae47d8c2cf22ce3abdd06efe5947a8d9ebc"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.aarch64-apple-darwin.tar.gz"
+[[Givaro]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0085d9a34d14dc6ca44570d09e3d72a1bd7b7194"
+libc = "glibc"
+os = "linux"
+
+    [[Givaro.download]]
+    sha256 = "07a067775482aa8fcf389726c0e5fbe5f9ac369704fcc8228558034d0b14f7ef"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[Givaro]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e5021ac697fbceeff848a9ce49d32adde607fa1a"
+libc = "glibc"
+os = "linux"
+
+    [[Givaro.download]]
+    sha256 = "93b5ab8c38879b9248f3a3a2bf88d5b084371a296e1520293cb1368582b1419e"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[Givaro]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b8032477c4772566d3bd26cd1f33c05fd2c64347"
+libc = "musl"
+os = "linux"
+
+    [[Givaro.download]]
+    sha256 = "1ed204a83f7a5573e309da5b64467c755e11b0ac81fcb87b19b59f757d25388f"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.aarch64-linux-musl-cxx03.tar.gz"
+[[Givaro]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "67e6abd79a5679d812a7e9a3b5c2266f0f38514d"
+libc = "musl"
+os = "linux"
+
+    [[Givaro.download]]
+    sha256 = "eb30f9f38e595ad11152667615853091a877339a9082928df31e840cb961168b"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.aarch64-linux-musl-cxx11.tar.gz"
+[[Givaro]]
+arch = "aarch64"
+git-tree-sha1 = "ba88005a8490d6e7266083e084260f1694f3ae96"
+os = "freebsd"
+
+    [[Givaro.download]]
+    sha256 = "cab6bb45ff45c4cfeacae58beba2e8e81fdae71b69e6412325df5161c6157e58"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.aarch64-unknown-freebsd.tar.gz"
+[[Givaro]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d71e09385d201c5ee5770fa68d68f5acaa09ddb4"
+libc = "glibc"
+os = "linux"
+
+    [[Givaro.download]]
+    sha256 = "f3a4002f9390dae69cae078b7c1739a84e8f3cdfedf3181d6ddd6e09626c3136"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Givaro]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e4288a89912b1877303a4452b93099627da3c553"
+libc = "glibc"
+os = "linux"
+
+    [[Givaro.download]]
+    sha256 = "76c9c48a13791c813f25c8a1bc7922979ae2af0d77ef47bde398597bd57a9029"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Givaro]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d78e873e36620071e0f0af02735134d91c95901d"
+libc = "musl"
+os = "linux"
+
+    [[Givaro.download]]
+    sha256 = "c07ddd3fa1c72a68ce015e4a12174e03c323291bfaedeb075b5a06f65a88c1d3"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[Givaro]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c2d417cf31d72d62d8e20040da34192de41e1fd5"
+libc = "musl"
+os = "linux"
+
+    [[Givaro.download]]
+    sha256 = "c28f09c3833a291dc9128bebb59f530460b6d140bf528dce459456457275ac42"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Givaro]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "34858ad34f822db60916edd6ce3bdf61b5f3f9e1"
+libc = "glibc"
+os = "linux"
+
+    [[Givaro.download]]
+    sha256 = "0b05ec597388c38c0e6e17a2898bec9d9e05b964a881e957bc33dbdea9dc4bdb"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Givaro]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9f207d533f2f788ccb1ccc91e3c7bacc23d1f5c1"
+libc = "glibc"
+os = "linux"
+
+    [[Givaro.download]]
+    sha256 = "02dd62d9f45d4335b83aa256b983d02367dffa43e4c377333898c8c1b947afb0"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Givaro]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "681a00a597bf821ab426c488033b29d47d264643"
+libc = "musl"
+os = "linux"
+
+    [[Givaro.download]]
+    sha256 = "6def2124c2a976d7dac83de6c1dd90f5d4fa01ca958f07625881d1bcd074b568"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Givaro]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1f7860a403803f2d44e10c567b372aa36a92cefd"
+libc = "musl"
+os = "linux"
+
+    [[Givaro.download]]
+    sha256 = "1f54d15946975b93c44118f70aaf2016afa2e514bb79be5c740b202639ded12d"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Givaro]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "94e2a79eb2096fa1c63cfc00b8f2a30e362cea24"
+libc = "glibc"
+os = "linux"
+
+    [[Givaro.download]]
+    sha256 = "85040d68b0b9109390d73601a8182ebc9bc1c3e9f1b7b12cba1245c449e075d5"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.i686-linux-gnu-cxx03.tar.gz"
+[[Givaro]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "25b2acc321173c48df82e8b8d2da16c64886f8c0"
+libc = "glibc"
+os = "linux"
+
+    [[Givaro.download]]
+    sha256 = "c4be4cd58510176b81187296b6a7a8b1a2d4227483f82011b567ef2d15b6a21c"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.i686-linux-gnu-cxx11.tar.gz"
+[[Givaro]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "29879a0be72c27464ff58def6b5fb55c0fbe166f"
+libc = "musl"
+os = "linux"
+
+    [[Givaro.download]]
+    sha256 = "b1e08e50ed8524a4a920750132c850a5cf090b211034a1546f5ecee97c0cd033"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.i686-linux-musl-cxx03.tar.gz"
+[[Givaro]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "07c39cdd6b4368432a015e08942e57dc1af80e6b"
+libc = "musl"
+os = "linux"
+
+    [[Givaro.download]]
+    sha256 = "97000c8cd76a2f828557e5c7fd625536aecfece08f193aca93b4de0bde298df1"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.i686-linux-musl-cxx11.tar.gz"
+[[Givaro]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "29cd3df747b2277a22e29ea51d00e78f1b7759db"
+libc = "glibc"
+os = "linux"
+
+    [[Givaro.download]]
+    sha256 = "63bb375d62cc112c5d5ff0dcf2a9bb00d86f70fb03d79a8d5bcce3c4204b29c7"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Givaro]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "83452d3b7915be5cf599497796ad198eea7746e1"
+libc = "glibc"
+os = "linux"
+
+    [[Givaro.download]]
+    sha256 = "bcd041462f46154bbbae025bbee486ea75e01b202931d392a991b2788a61b58f"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Givaro]]
+arch = "x86_64"
+git-tree-sha1 = "9b3cca2a53631556f019483c485a5c1cb20cb210"
+os = "macos"
+
+    [[Givaro.download]]
+    sha256 = "c5e345ef93f93b0f6dd324ea2cf67a0a8aad98082bdf71a07e453f355a47e590"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.x86_64-apple-darwin.tar.gz"
+[[Givaro]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6283c41f0aefe808c9d9543d1a174fc72382d6b3"
+libc = "glibc"
+os = "linux"
+
+    [[Givaro.download]]
+    sha256 = "d6836565df2dad7cad6c3c6bc7b782beb1a800a6f2d56ad2fa1e66a8a7090369"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[Givaro]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "07f1ab9343fe306bc3774853449d26739ef625b2"
+libc = "glibc"
+os = "linux"
+
+    [[Givaro.download]]
+    sha256 = "3b49dd3d99da8b2282035b2a79a1cab746b05c055721e4663b0034afccd86828"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Givaro]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c64d14fe3b82f180cf306465afe6d2124ee60279"
+libc = "musl"
+os = "linux"
+
+    [[Givaro.download]]
+    sha256 = "d60504f41ea6ed2857668ee92f7400b5a4efb9bd7b3462cdff13e531841788e8"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.x86_64-linux-musl-cxx03.tar.gz"
+[[Givaro]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c3fadf608ec8965ebb809e04cc579a2694caf314"
+libc = "musl"
+os = "linux"
+
+    [[Givaro.download]]
+    sha256 = "fe3c8791ab258096355c3e49dcc51e3ddf3c2b9a018548ab6504eff0a69e4a07"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.x86_64-linux-musl-cxx11.tar.gz"
+[[Givaro]]
+arch = "x86_64"
+git-tree-sha1 = "a433554e566ebc4ad43213d2728ea67f1f845ac2"
+os = "freebsd"
+
+    [[Givaro.download]]
+    sha256 = "7d6ccb844fbbed55896172a89e5fc4bfa2f38db6f75802b9da23f794871f7dbb"
+    url = "https://github.com/JuliaBinaryWrappers/Givaro_jll.jl/releases/download/Givaro-v4.2.0+0/Givaro.v4.2.0.x86_64-unknown-freebsd.tar.gz"
